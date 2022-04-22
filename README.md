@@ -6,7 +6,7 @@ Next to PDFs I am also able to convert DOCX, XLSX, PPTX into PDFs and then proce
 
 ## What is it good for?
 
-For many business users it is important to open document files. Examples are press department, human resources, client communication, etc. Business customers often cannot ignore provided document files just because of a suspicion or bad feeling. In some business areas documents shall be opened by regulations. Even though the document is nonsense or in worst case could contain malware. This is risky in terms of IT security. Typical online document analysis tools do not respect privacy, especially GDPR. So I build a system that could be run as an appliance in a demilitarized zone. It receives PDFs (and other document files) and converts them into PDF sanitized the way presented here.
+For many business users it is important to open document files. Examples are press department, human resources, client communication, etc. Business customers often cannot ignore provided document files just because of a suspicion or bad feeling. In some business areas documents shall be opened by regulations. Even though the document is nonsense or in worst case could contain malware. This is risky in terms of IT security. Typical online document analysis tools do not respect privacy, especially GDPR. So I build a system that could be run as an appliance in a demilitarized zone, fully under control and easily GDPR conformant. It receives PDFs (and other document files) and converts them into PDF sanitized the way presented here.
 
 ## Script
 
