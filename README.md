@@ -2,7 +2,7 @@
 
 I use this script to sanitize (aka flatten) given PDF files into images, then I convert the images back to PDF. Then I do an OCR on the imaged PDF. I call the final PDF sanitized. The script runs on a secured, read-only live linux box running in memory only. So even if a PDF exploits something, an attacker will end in my limited read-only live-linux box. This means that the risk is very low.
 
-Next to PDFs I am also able to convert DOCX, XLSX, PPTX into PDFs and then process them the same way. As this part uses licensed tools under NDA I cannot share all details here. If you are interested in more information, feel freen and contact me.
+Next to PDFs I am also able to convert DOCX, XLSX, PPTX into PDFs and then process them the same way. As this part uses licensed tools under NDA I cannot share all details here. If you are interested in more information, feel free and contact me.
 
 ## What is it good for?
 
