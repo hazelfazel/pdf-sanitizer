@@ -20,9 +20,9 @@ You may edit /etc/ImageMagick-<INSTALLED-VERSION>/policy.xml
 
 You should set:
 
-	&lt;policy domain="resource" name="memory" value="512MiB"/&gt;
-	&lt;policy domain="resource" name="disk" value="4GiB"/&gt;
-	&lt;policy domain="coder" rights="read|write" pattern="PDF"/&gt;
+	policy domain="resource" name="memory" value="512MiB"
+	policy domain="resource" name="disk" value="4GiB"
+	policy domain="coder" rights="read|write" pattern="PDF"
 	
 ## Script
 
