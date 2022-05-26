@@ -10,7 +10,11 @@ For many business users it is important to open document files. Examples are pre
 
 ## Tools required
 
-Ensure you have installed ImageMagick, Poppler-Utils, qpdf and ocrmypdf
+Ensure you have installed ImageMagick, Poppler-Utils, qpdf and ocrmypdf.
+
+Make sure you have Ghostscript ≥9.24:
+
+<pre>gs --version</pre>
 
 <pre>
 sudo apt-get install --no-install-recommends imagemagick poppler-utils qpdf ocrmypdf tesseract-ocr-deu tesseract-ocr-eng
